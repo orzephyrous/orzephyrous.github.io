@@ -1,0 +1,6 @@
+baseURL = "https://orzephyrous.github.io/"
+languageCode = "en-us"
+title = "Zephyr's blog"
+theme = "stack"
+defaultContentLanguage = "en"
+hasCJKLanguage = true
