@@ -10,5 +10,15 @@ src = "img/avatar.png"
 enabled = true
 default = "Licensed under CC BY-NC-SA 4.0"
 
-[[widgets.page]]
-type = "toc"
+[widgets]
+homepage = [
+    {type = "search"},
+    # {type = "archives"},
+    {type = "tag-cloud"},
+]
+page = [{type = "toc"}]
+
+[footer]
+since = 2026
+customText = "orz"
+
