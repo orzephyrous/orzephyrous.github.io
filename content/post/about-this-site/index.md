@@ -2,6 +2,8 @@
 title: 关于本网站的建立
 description: 对个人博客网站构建和部署的一些简要记录
 date: 2026-01-26T23:04:21+08:00
+lastmod: 2026-01-28T23:13:18+08:00
+image: hugo.png
 draft: false
 links:
   - title: orzephyrous.github.io (GtiHub Repository)
@@ -12,8 +14,6 @@ tags:
   - tech
   - software
   - memo
-catagory:
-  - blog
 ---
 
 # 关于本博客网站的建立
