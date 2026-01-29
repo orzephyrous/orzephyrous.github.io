@@ -3,7 +3,7 @@ title: 从零开始的个人NAS软硬件记录
 description: 机械硬盘、MLC、TLC和傲腾共存的奇葩硬件搭配，没什么存在感的开源系统，成为了差强人意的日用NAS
 date: 2026-01-28T22:26:16+08:00
 image: omv-harddisk.png
-draft: true
+draft: false
 links:
   - title: OpenMediaVault official home page
     description: The open-source NAS system I use.
