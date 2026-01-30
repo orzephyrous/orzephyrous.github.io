@@ -14,3 +14,10 @@ url = "https://bgm.tv/user/orzephyr"
 [social.params]
 icon = "brand-bilibili"
 
+[[social]]
+identifier = "mail"
+name = "Mail"
+url = "mailto:1416385800@qq.com"
+
+[social.params]
+icon = "mail"
